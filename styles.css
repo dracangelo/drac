@@ -8,8 +8,8 @@ h1 {
   font-size: 3.1rem;
   color: white;
   text-shadow: grey;
-  color:black;
-  margin:0 auto;
+  color: black;
+  margin: 0 auto;
 }
 
 #nav {
@@ -55,7 +55,7 @@ nav a:hover {
 #projects p {
   text-align: left;
   margin-top: 0px;
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   text-align: center;
 }
 img {
@@ -68,9 +68,20 @@ img {
 }
 #projects {
   /* display: flex; */
-  float:left;
-  margin:0 auto;
-  margin-left:40px;
+  margin: 0 auto;
+  font-size: 1.3rem;
   background-color: gray;
-  
+}
+
+.one {
+  margin: 0 auto;
+}
+
+#about {
+}
+
+#contacts {
+  padding: 1.1rem;
+  font-size: 1.3rem;
+  background-color: gray;
 }
