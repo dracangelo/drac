@@ -24,7 +24,7 @@ nav a {
   padding: 10px;
   float: left;
   font-size: 1.5rem;
-  padding: 20px;
+  padding: 2rem;
   margin: 5px;
   display: flex;
   color: rgb(10, 10, 10);
@@ -49,21 +49,25 @@ nav a {
 
 nav a:hover {
   background: rgb(171, 173, 17);
-  color:red;
+  color: red;
 }
 
 #projects p {
   text-align: left;
-  margin-top: 100px;
+  margin-top: 0px;
   font-size: 1.4rem;
   text-align: center;
 }
 img {
   /* display: flex; */
   float: center;
-  margin-top: 75px;
 }
 #projects a {
   display: flex;
   justify-content: center;
+}
+#projects {
+  /* display: flex; */
+  float:left;
+  
 }
