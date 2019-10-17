@@ -1,15 +1,15 @@
-@import url("https://fonts.googleapis.com/css?family=Ceviche+One&display=swap");
-
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 h1 {
-  font-family: "Ceviche One", cursive;
   font-weight: bold;
   font-size: 3.1rem;
   color: white;
+  text-shadow: grey;
+  color:black;
+  margin:0 auto;
 }
 
 #nav {
@@ -69,5 +69,8 @@ img {
 #projects {
   /* display: flex; */
   float:left;
+  margin:0 auto;
+  margin-left:40px;
+  background-color: gray;
   
 }
