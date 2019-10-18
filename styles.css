@@ -79,6 +79,19 @@ img {
 }
 
 #about {
+  background-color: #D4D4FF;
+  display: flex
+}
+
+#about img {
+  border-radius:30 px;
+  margin-left: 2rem;
+}
+
+#about p {
+  float:left;
+  font-size: 1.3rem;
+  margin: 1rem;
 }
 
 #contacts {
@@ -88,4 +101,7 @@ img {
 }
 .delta {
   text-align: center;
+}
+*p {
+  font-size: 1.3rem;
 }
