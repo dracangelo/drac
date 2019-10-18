@@ -8,3 +8,4 @@
 - Gives you a description about me from my interests to ambitions.
 
 ## Deploying
+- follow this link for more info https://dracangelo.github.io/drac/
