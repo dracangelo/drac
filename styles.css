@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -11,10 +13,11 @@ h1 {
   color: black;
   margin: 0 auto;
   text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 #nav {
-  background-color: white;
+  background-color: #BACDFF;
   margin: 0 auto;
   width: 40%;
 }
@@ -102,10 +105,18 @@ img {
 .delta {
   text-align: center;
 }
+
+.delta p {
+  justify-content: center;
+  display: flex;
+}
 *p {
   font-size: 1.3rem;
 }
 #dc {
   color:firebrick;
   font-family: fantasy;
+}
+.no {
+
 }
