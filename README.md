@@ -11,5 +11,4 @@
 - follow this link for more info https://dracangelo.github.io/drac/
 
 ## screenshots 
-![project screenshot](images/cool.jpg)
-![screenshot](ima/ok.jpg)
+<img src="images/cool.jpg" width=500px>
