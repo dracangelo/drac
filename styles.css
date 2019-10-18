@@ -77,13 +77,16 @@ img {
   background-color: gray;
 }
 
+#projects a:hover {
+  transform: scale(1.1)
+}
 .one {
   margin: 0 auto;
 }
 
 #about {
   background-color: #D4D4FF;
-  display: flex
+  display: flex;
 }
 
 #about img {
@@ -118,5 +121,5 @@ img {
   font-family: fantasy;
 }
 .no {
-
+  text-align: center;
 }
