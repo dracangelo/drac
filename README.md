@@ -1,5 +1,5 @@
-# Portfolio
-Just like the name, portfolio is my own portfolio.
+# name
+Portfolio
 
 ## Author
 Kelvin Mbugua 
