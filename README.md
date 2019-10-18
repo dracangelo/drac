@@ -1,10 +1,10 @@
 # name
-Portfolio
+- Portfolio
 
 ## Author
-Kelvin Mbugua 
+- Kelvin Mbugua 
 
 ## DESCRIPTION
-Gives you a description about me from my interests to ambitions.
+- Gives you a description about me from my interests to ambitions.
 
-## 
+## Deploying
