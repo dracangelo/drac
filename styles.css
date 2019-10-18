@@ -84,7 +84,7 @@ img {
 }
 
 #about img {
-  border-radius:30 px;
+  border-radius:100%;
   margin-left: 2rem;
 }
 
@@ -104,4 +104,8 @@ img {
 }
 *p {
   font-size: 1.3rem;
+}
+#dc {
+  color:firebrick;
+  font-family: fantasy;
 }
