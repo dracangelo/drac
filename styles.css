@@ -4,6 +4,8 @@
   body {
     background-color: black;
     color: white;
+    font-size:1.1 rem;
+    width:80px;
   }
 }
 
@@ -12,14 +14,24 @@
     background-color: #DAEBA2;
     color: rgba(0, 0, 0, 0.5);
     width:100%;
+    font-size: 1.3rem;
   }
 }
 
-@media screen and (min width: 600px) {
+@media screen and (min-width: 600px) {
   body {
     width:90%;
     background-color: #fff;
-    color:goldenrod;
+    color:#6BFF9D;
+    font-size: 1.5 rem;
+  }
+}
+
+@media screen and (min-width:1200px){
+  body {
+    width:100%;
+    background-color: white;
+    color: black;
   }
 }
 * {
