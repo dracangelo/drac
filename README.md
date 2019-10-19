@@ -28,4 +28,4 @@ I used the folling technologies during the creation of the portfolio.
 * CSS (Cascading Stylke Sheet)
 
 ## Acknowledgements
-- I would like to acknowledge my collegue Simon kimani for his tremendous help in this project. I would also like to thank Hammerton "paddington" Mutuku for being with me through out the process.
+- I would like to acknowledge my collegue **Simon kimani** for his tremendous help in this project. I would also like to thank **Hammerton "paddington" Mutuku** for being with me through out the process.
